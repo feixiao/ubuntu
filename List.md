@@ -15,3 +15,4 @@
 + [haroopad](http://pad.haroopress.com/user.html) 　Haroopad is a markdown enabled document processor for creating web-friendly documents. 
 
 ###开发
++ [smartsynchronize](http://www.syntevo.com/smartsynchronize/download) 文件目录比较工具
