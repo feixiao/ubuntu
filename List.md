@@ -16,3 +16,4 @@
 
 ###开发
 + [smartsynchronize](http://www.syntevo.com/smartsynchronize/download) 文件目录比较工具
++ [Meld](http://meldmerge.org/) Meld is a visual diff and merge tool targeted at developers.
