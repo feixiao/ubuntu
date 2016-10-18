@@ -15,6 +15,9 @@
 + [haroopad](http://pad.haroopress.com/user.html) 　Haroopad is a markdown enabled document processor for creating web-friendly documents. 
 + [Dia](http://ftp.gnome.org/pub/gnome/sources/dia/0.97/) Ubuntu下面Visio的代替产品。
 
+###阅读
++ [calibre](https://calibre-ebook.com/download_linux) 电子书管理软件。
+
 ###开发
 + [smartsynchronize](http://www.syntevo.com/smartsynchronize/download) 文件目录比较工具。
 + [Meld](http://meldmerge.org/) Meld is a visual diff and merge tool targeted at developers.
