@@ -17,7 +17,7 @@
 
 ###阅读
 + [calibre](https://calibre-ebook.com/download_linux) 电子书管理软件。
-
++ [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) Mobi格式的阅读器。
 ###开发
 + [smartsynchronize](http://www.syntevo.com/smartsynchronize/download) 文件目录比较工具。
 + [Meld](http://meldmerge.org/) Meld is a visual diff and merge tool targeted at developers.
