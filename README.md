@@ -32,7 +32,8 @@ Ubuntu桌面应用收集
 + [smartsynchronize](http://www.syntevo.com/smartsynchronize/download) 文件目录比较工具。
 + [Meld](http://meldmerge.org/) Meld is a visual diff and merge tool targeted at developers.
 + [Understand](https://scitools.com/) Understand® is an IDE built from the ground up to help you fully comprehend your source code. Analyze it, measure it, visualize it, maintain it - Understand it.
-+ [zsh](http://ohmyz.sh/) 优秀的终端工具
++ [zsh](http://ohmyz.sh/) 优秀的终端工具。
++ [synergy](https://symless.com/synergy) 鼠标键盘分享工具，即一套键鼠控制多台电脑，[百度云地址](https://pan.baidu.com/s/1cs3rQ2)提供Windows、OS X、Ubuntu三个版本。
 
 ### 截图
 + [shutter](http://shutter-project.org/downloads/) Ubuntu平台上的截图软件
