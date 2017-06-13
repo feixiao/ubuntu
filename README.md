@@ -23,6 +23,7 @@ Ubuntu桌面应用收集
 + [haroopad](http://pad.haroopress.com/user.html) 　Haroopad is a markdown enabled document processor for creating web-friendly documents. 
 + [Dia](http://ftp.gnome.org/pub/gnome/sources/dia/0.97/) Ubuntu下面Visio的代替产品。
 + [Typora](https://www.typora.io/)  免费极简编辑器。
++ [DotEditor](http://vincenthee.github.io/DotEditor/) 使用dot的绘图工具。
 
 ### 阅读
 + [calibre](https://calibre-ebook.com/download_linux) 电子书管理软件。
