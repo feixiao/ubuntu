@@ -37,6 +37,7 @@ Ubuntu桌面应用收集
 + [zsh](http://ohmyz.sh/) 优秀的终端工具。
 + [synergy](https://symless.com/synergy) 鼠标键盘分享工具，即一套键鼠控制多台电脑，[百度云地址](https://pan.baidu.com/s/1cs3rQ2)提供Windows、OS X、Ubuntu三个版本。
 + [GitKraken](https://www.gitkraken.com/) The most popular Git GUI for Windows, Mac AND Linux.
++ [mysql-workbench](https://dev.mysql.com/downloads/workbench/) MySQL跨平台客户端工具，可以通过ER图导出SQL脚本。
 
 ### 截图
 + [shutter](http://shutter-project.org/downloads/) Ubuntu平台上的截图软件
