@@ -8,6 +8,7 @@ Ubuntu桌面应用收集
 ### 主题
 + [flatabulous](https://blog.anmoljagetia.me/flatabulous-ubuntu-theme/) ubuntu下面的扁平化主题。
 + [yltra-flat-icon-theme](https://github.com/erikdubois/yltra-flat-icon-theme) Yltra Flat icon for Linux Operating Systems.
++ [Nitrux](https://github.com/Nitrux) 含有很多主题图标选择。
 
 ### 下载
 + [uGet](http://ugetdm.com/)  The Best Download Manager for Linux.
