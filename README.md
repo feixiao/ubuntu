@@ -5,6 +5,8 @@ Ubuntu桌面应用收集
 + 收集ubuntu上面的应用程序，使用Ubuntu替换Ｗindows。
 
 ## 工具整理
+### 主题
++ [flatabulous](https://blog.anmoljagetia.me/flatabulous-ubuntu-theme/) ubuntu下面的扁平化主题。
 
 ### 下载
 + [uGet](http://ugetdm.com/)  The Best Download Manager for Linux.
