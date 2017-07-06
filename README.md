@@ -7,6 +7,7 @@ Ubuntu桌面应用收集
 ## 工具整理
 ### 主题
 + [flatabulous](https://blog.anmoljagetia.me/flatabulous-ubuntu-theme/) ubuntu下面的扁平化主题。
++ [yltra-flat-icon-theme](https://github.com/erikdubois/yltra-flat-icon-theme) Yltra Flat icon for Linux Operating Systems.
 
 ### 下载
 + [uGet](http://ugetdm.com/)  The Best Download Manager for Linux.
