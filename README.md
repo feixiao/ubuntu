@@ -45,3 +45,9 @@ Ubuntu桌面应用收集
 
 ### 截图
 + [shutter](http://shutter-project.org/downloads/) Ubuntu平台上的截图软件
+
+
+
+#### 其他
+
++ [ 《Linux命令行工具使用说明》](./linux_cmd_tools.md)
