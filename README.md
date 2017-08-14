@@ -31,6 +31,7 @@ Ubuntu桌面应用收集
 + [Typora](https://www.typora.io/)  免费极简编辑器。
 + [DotEditor](http://vincenthee.github.io/DotEditor/) 使用dot的绘图工具。
 + [yEd](http://www.yworks.com/downloads#yEd)  比肩Visio的画图工具。
++ [geany](http://www.geany.org/) 记事本工具。
 
 ### 阅读
 + [calibre](https://calibre-ebook.com/download_linux) 电子书管理软件。
