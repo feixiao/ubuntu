@@ -2,6 +2,7 @@
 Ubuntu桌面应用收集
 
 + [Ubuntu 个人电脑认证硬件](https://certification.ubuntu.com/certification/desktop/)  作为笔记本购置的参考。
++ [linux deepin ](https://www.deepin.com/archives/1343) 深度桌面操作系统。
 
 ## Todo
 + 收集ubuntu上面的应用程序，使用Ubuntu替换Ｗindows。
