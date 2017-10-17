@@ -50,6 +50,7 @@ Ubuntu桌面应用收集
 + [mysql-workbench](https://dev.mysql.com/downloads/workbench/) MySQL跨平台客户端工具，可以通过ER图导出SQL脚本。
 + [Postman](https://www.getpostman.com/) 跨平台的Rest请求测试工具。
 + [termius](https://www.termius.com/) Termius is the #1 cross-platform terminal with built-in SSH and Telnet.
++ [docker for debain](https://download.docker.com/linux/debian/dists/stretch/pool/stable/amd64/) debain使用的deb安装包。
 ### 截图
 + [shutter](http://shutter-project.org/downloads/) Ubuntu平台上的截图软件
 
