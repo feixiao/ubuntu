@@ -54,9 +54,12 @@ Ubuntu桌面应用收集
 + [termius](https://www.termius.com/) Termius is the #1 cross-platform terminal with built-in SSH and Telnet.
 + [docker for debain](https://download.docker.com/linux/debian/dists/stretch/pool/stable/amd64/) debain使用的deb安装包。
 + [kitematic](https://github.com/docker/kitematic/releases) 跨平台的docker GUI工具。
+
 ### 截图
 + [shutter](http://shutter-project.org/downloads/) Ubuntu平台上的截图软件
 
+### IM
++ [WeChat](https://github.com/geeeeeeeeek/electronic-wechat) 微信。
 
 
 #### 其他
