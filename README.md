@@ -38,6 +38,8 @@ Ubuntu桌面应用收集
 ### 阅读
 + [calibre](https://calibre-ebook.com/download_linux) 电子书管理软件。
 + [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) Mobi格式的阅读器。
++ [okular](https://okular.kde.org/)  Okular is a universal document viewer based developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, Mac OS X, *BSD, etc.
+  + [Evince & Okular](http://blog.csdn.net/u014015972/article/details/50659952)
 
 ### 开发
 + [smartsynchronize](http://www.syntevo.com/smartsynchronize/download) 文件目录比较工具。
