@@ -40,7 +40,8 @@ Ubuntu桌面应用收集
 + [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) Mobi格式的阅读器。
 + [okular](https://okular.kde.org/)  Okular is a universal document viewer based developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, Mac OS X, *BSD, etc.
   + [Evince & Okular](http://blog.csdn.net/u014015972/article/details/50659952)
-
++ [f.lux](https://justgetflux.com/) 跨平台的屏幕亮度调节工具。
++ [redshift](http://jonls.dk/redshift/) 跨平台的屏幕亮度调节工具。
 ### 开发
 + [smartsynchronize](http://www.syntevo.com/smartsynchronize/download) 文件目录比较工具。
 + [Meld](http://meldmerge.org/) Meld is a visual diff and merge tool targeted at developers.
