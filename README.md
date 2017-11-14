@@ -24,7 +24,8 @@ Ubuntu桌面应用收集
 
 ### 音视频
 + [网易云音乐](http://music.163.com/#/download)　网易云音乐Ubuntu版本。
-+ [Kodi](https://kodi.tv/download/) 跨平台的媒体管理中心
++ [Kodi](https://kodi.tv/download/) 跨平台的媒体管理中心。
++ [Transmageddon](https://git.gnome.org//browse/transmageddon) 音视频格式转换工具。
 
 ### 作图与写作
 + [XMIND](http://www.xmindchina.net/)  流行思维导图软件，打造易用、美观、高效的可视化思维管理工具。
