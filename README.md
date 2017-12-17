@@ -43,6 +43,8 @@ Ubuntu桌面应用收集
   + [Evince & Okular](http://blog.csdn.net/u014015972/article/details/50659952)
 + [f.lux](https://justgetflux.com/) 跨平台的屏幕亮度调节工具。
 + [redshift](http://jonls.dk/redshift/) 跨平台的屏幕亮度调节工具。
++ [youdao](http://codown.youdao.com/cidian/linux/youdao-dict_1.0.2~ubuntu_amd64.deb) 有道词典。
+
 ### 开发
 + [smartsynchronize](http://www.syntevo.com/smartsynchronize/download) 文件目录比较工具。
 + [Meld](http://meldmerge.org/) Meld is a visual diff and merge tool targeted at developers.
