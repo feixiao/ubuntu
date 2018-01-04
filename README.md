@@ -61,7 +61,7 @@ Ubuntu桌面应用收集
 + [jetbrains IDE全家桶](https://www.jetbrains.com/)
   + [Intellij IDEA 配置Subversion插件](http://blog.csdn.net/wo541075754/article/details/46047051)
   + [IntelliJ IDEA设置JVM运行参数](http://blog.csdn.net/sdujava2011/article/details/50086933)
-+ [Gitlab-ce](http://blog.csdn.net/chenjh213/article/details/50527877) GitLab CE安装配置.
++ [Gitlab-ce](https://tecadmin.net/install-gitlab-ce-on-ubuntu/#) GitLab CE安装配置.
 
 
 ### 截图
