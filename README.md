@@ -13,6 +13,7 @@ Ubuntu桌面应用收集
 + [yltra-flat-icon-theme](https://github.com/erikdubois/yltra-flat-icon-theme) Yltra Flat icon for Linux Operating Systems.
 + [Nitrux](https://github.com/Nitrux) 含有很多主题图标选择。
 + [超好用的 Linux 桌面个性化工具推荐](https://my.oschina.net/editorial-story/blog/1527138)
++ [Ubuntu 18.04配置及美化](https://blog.csdn.net/ice__snow/article/details/80152068)
 
 ### 下载
 + [uGet](http://ugetdm.com/)  The Best Download Manager for Linux.
