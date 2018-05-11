@@ -63,6 +63,8 @@ Ubuntu桌面应用收集
   + [Intellij IDEA 配置Subversion插件](http://blog.csdn.net/wo541075754/article/details/46047051)
   + [IntelliJ IDEA设置JVM运行参数](http://blog.csdn.net/sdujava2011/article/details/50086933)
 + [Gitlab-ce](https://docs.gitlab.com/omnibus/docker/) GitLab CE安装配置.
++ [Visual Studio Code](https://code.visualstudio.com/)  微软开发的代码编辑工具。
+  + [构建Visual Studio Code编译调试Linux C++环境](https://zhuanlan.zhihu.com/p/28715337)
 
 
 ### 截图
