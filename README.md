@@ -14,6 +14,7 @@ Ubuntu桌面应用收集
 + [Nitrux](https://github.com/Nitrux) 含有很多主题图标选择。
 + [超好用的 Linux 桌面个性化工具推荐](https://my.oschina.net/editorial-story/blog/1527138)
 + [Ubuntu 18.04配置及美化](https://blog.csdn.net/ice__snow/article/details/80152068)
++ [Ubuntu18.04安装、配置、美化-踩坑记](https://www.imooc.com/article/28127?block_id=tuijian_wz)
 
 ### 下载
 + [uGet](http://ugetdm.com/)  The Best Download Manager for Linux.
