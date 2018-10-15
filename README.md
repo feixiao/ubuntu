@@ -10,6 +10,7 @@ Ubuntu桌面应用收集
 ## 工具整理
 ### 主题
 + [flatabulous](https://blog.anmoljagetia.me/flatabulous-ubuntu-theme/) ubuntu下面的扁平化主题。
+  + sudo apt-get install unity-tweak-tool
 + [yltra-flat-icon-theme](https://github.com/erikdubois/yltra-flat-icon-theme) Yltra Flat icon for Linux Operating Systems.
 + [Nitrux](https://github.com/Nitrux) 含有很多主题图标选择。
 + [超好用的 Linux 桌面个性化工具推荐](https://my.oschina.net/editorial-story/blog/1527138)
