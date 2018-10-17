@@ -16,7 +16,7 @@ Ubuntu桌面应用收集
 + [超好用的 Linux 桌面个性化工具推荐](https://my.oschina.net/editorial-story/blog/1527138)
 + [Ubuntu 18.04配置及美化](https://blog.csdn.net/ice__snow/article/details/80152068)
 + [Ubuntu18.04安装、配置、美化-踩坑记](https://www.imooc.com/article/28127?block_id=tuijian_wz)
-
++ [Ubuntu18.04 安装后应该做的事](https://blog.csdn.net/ice__snow/article/details/80152068)
 ### 下载
 + [uGet](http://ugetdm.com/)  The Best Download Manager for Linux.
 + [Deluge](http://dev.deluge-torrent.org/) Deluge is a fully-featured cross-platform BitTorrent client
