@@ -68,6 +68,7 @@ Ubuntu桌面应用收集
 + [Visual Studio Code](https://code.visualstudio.com/)  微软开发的代码编辑工具。
   + [构建Visual Studio Code编译调试Linux C++环境](https://zhuanlan.zhihu.com/p/28715337)
 + [FinalShell](http://www.hostbuf.com/t/1059.html)
++ [brew](http://linuxbrew.sh/)
 
 ### 截图
 + [shutter](http://shutter-project.org/downloads/) Ubuntu平台上的截图软件
