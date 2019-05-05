@@ -80,3 +80,4 @@ Ubuntu桌面应用收集
 #### 其他
 
 + [ 《Linux命令行工具使用说明》](./linux_cmd_tools.md)
++ [《Ubuntu18.04 配置ss-qt5》](https://www.jianshu.com/p/e5936d394a14)
