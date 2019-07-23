@@ -9,4 +9,5 @@
 + [ 在 Windows 上用 WSL 开发的操作体验指北](https://sspai.com/post/47719)
 
 + [ Remote-WSL 插件](https://spencerwoo.com/dowww/3-VSCode/#%E4%B8%8B%E8%BD%BD)
++ [WSL缓慢及卡顿的解决方法](https://liaocy.net/2018/20180613-wslslow/)
 
