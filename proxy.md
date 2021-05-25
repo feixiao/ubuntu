@@ -22,6 +22,7 @@
       "method":"aes-256-cfb"
   }
   ```
+  [推荐VPN](https://www.yecao100.org/aff.php?aff=3668)
 
 + 启动
 
