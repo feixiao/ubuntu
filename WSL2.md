@@ -1,5 +1,4 @@
-## WSL2 设置固定IP
-
+## WSL2 设置
 
 ### 镜像路径修改
  说明：Docker Desktop也使用了WSL，而且有专门的名字, docker-desktop-data和docker-desktop
@@ -11,6 +10,19 @@ wsl --unregister docker-desktop
 wsl --import docker-desktop-data F:\\docker\wsl\docker-desktop-data  F:\\wsl\docker-desktop-data.tar --version 2
 wsl --import docker-desktop F:\\docker\wsl\docker-desktop  F:\\wsl\docker-desktop.tar --version 2
 ```
+
+#### 固定IP
++ [《WSL2固定IP解决方案》](https://www.loyating.com/articles/23)
+
+
+#### 修改WSL2的路径
+```shell
+wsl -l -v 
+wsl --export Ubuntu-22.04 F:\\wsl\Ubuntu-22.04.tar
+wsl --unregister Ubuntu-22.04
+wsl --import Ubuntu-22.04 F:\\docker\wsl\Ubuntu-22.04  F:\\wsl\Ubuntu-22.04.tar --version 2
+```
+
 
 ### 参考资料
 + [《WSL2固定IP解决方案》](https://www.loyating.com/articles/23)
