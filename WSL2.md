@@ -21,6 +21,8 @@ wsl -l -v
 wsl --export Ubuntu-22.04 F:\\wsl\Ubuntu-22.04.tar
 wsl --unregister Ubuntu-22.04
 wsl --import Ubuntu-22.04 F:\\docker\wsl\Ubuntu-22.04  F:\\wsl\Ubuntu-22.04.tar --version 2
+
+Ubuntu-22.04 config --default-user username
 ```
 
 
