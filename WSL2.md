@@ -15,6 +15,17 @@ wsl --import docker-desktop F:\\docker\wsl\docker-desktop  F:\\wsl\docker-deskto
 + [《WSL2固定IP解决方案》](https://www.loyating.com/articles/23)
 
 
+#### 命令行代理设置
+```shell
+# 设置代理命令
+export SOCKS5="socks5://192.168.1.12:7890"
+alias httpProxy="export http_proxy=${SOCKS5};export https_proxy=${http_proxy}"
+alias httpProxyOff="unset  http_proxy;unset  https_proxy"
+
+alias gitProxy="git config --global http.proxy ${SOCKS5};git config --global https.proxy ${SOCKS5}"
+alias gitProxyOff="git config --global --unset http.proxy;git config --global --unset https.proxy"
+```
+
 #### 修改WSL2的路径
 ```shell
 wsl -l -v 
