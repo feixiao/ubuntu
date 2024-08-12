@@ -25,6 +25,10 @@ sudo apt-get install fonts-powerline
 source ~/.zshrc
 ```
 
+##### 2.1  支持正则表达式
+```bash
+echo "setopt no_nomatch" >> ~/.zshrc
+```
 #### 3. 代理配置
 
 ```bash
