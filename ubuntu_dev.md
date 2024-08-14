@@ -48,4 +48,9 @@ alias gitproxyOff='git config --global --unset http.proxy;git config --global --
 ```bash
 wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh
 bash Miniforge3-Linux-x86_64.sh
+
+# 配置
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
 ```
