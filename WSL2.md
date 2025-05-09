@@ -18,12 +18,12 @@ wsl --import docker-desktop F:\\docker\wsl\docker-desktop  F:\\wsl\docker-deskto
 #### 命令行代理设置
 ```shell
 # 设置代理命令
-export SOCKS5="socks5://192.168.1.12:7890"
-alias httpProxy="export http_proxy=${SOCKS5};export https_proxy=${http_proxy}"
-alias httpProxyOff="unset  http_proxy;unset  https_proxy"
-
-alias gitProxy="git config --global http.proxy ${SOCKS5};git config --global https.proxy ${SOCKS5}"
-alias gitProxyOff="git config --global --unset http.proxy;git config --global --unset https.proxy"
+proxy_ip="172.19.99.136"
+proxy_port="7890"
+alias proxy='export http_proxy=${proxy_ip}:${proxy_port}; export https_proxy=${http_proxy}'
+alias proxyOff='unset http_proxy;unset https_proxy'
+alias gitproxy='git config --global http.proxy socks5://${proxy_ip}:${proxy_port};git config --global https.proxy socks5://${proxy_ip}:${proxy_port}'
+alias gitproxyOff='git config --global --unset http.proxy;git config --global --unset https.proxy'
 ```
 
 #### 修改WSL2的路径
